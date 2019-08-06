@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">FriZtY</string>
+
+    <string-array name="size">
+        <item>SIZE</item>
+        <item>Xs</item>
+        <item>s</item>
+        <item>M</item>
+        <item>L</item>
+        <item>XL</item>
+        <item>XXL</item>
+    </string-array>
+
+    <string-array name="Quantity">
+        <item>Quantity</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+</resources>
+
